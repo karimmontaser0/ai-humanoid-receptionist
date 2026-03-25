@@ -1,0 +1,10 @@
+python-dotenv
+sounddevice
+numpy
+requests
+google-cloud-speech
+google-generativeai
+arabic-reshaper
+python-bidi
+python-vlc
+scipy
